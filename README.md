@@ -32,19 +32,3 @@ Compares two images using SSIM and returns the similarity score.
 
 Compares single-page PDFs and returns a list of filenames where the PDFs differ.
 
-## Code
-
-[Embed your code here by using triple backticks followed by "python"]
-
-```python
-import os
-import streamlit as st
-from pdf2image import convert_from_path
-...
-...
-...
-if __name__ == "__main__":
-    main()
-
-
-For the "Embed your code here" section in the above markdown, you would use the triple backtick syntax to start a code block (```) followed by the word `python` to indicate the language, then paste your code, and end with another set of triple backticks to close the code block. The given markdown provides context and descriptions for your code to make it more readable and understandable to visitors to your GitHub repository.
